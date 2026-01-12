@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi all, I persuing a PhD in Biochemistry at KU Leuven and I am interested in creating useful tools for my daily research tasks.
+Hi all, I am currently persuing a PhD in Biochemistry at KU Leuven and I am interested in creating useful tools for my daily research tasks.
 
 
 ## 🌐 Socials:
